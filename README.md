@@ -1,3 +1,3 @@
 # Demo
 
-Working with Git
+Working with Git.
